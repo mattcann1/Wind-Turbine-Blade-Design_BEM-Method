@@ -18,14 +18,14 @@ The part of the blade that produces the most power without tip losses is the tip
 
 The final blade design results in the following performance parameters:
 
-|Coefficent of Performance (Cp)||
+|Condition|Coefficent of Performance (Cp)|
 |---------|------|
 | Rated |0.499 |
 | No Drag |0.520|
 |No Drag and with tip loss| 0.442|
 
-|Power Output||
+|Power Output|[MW]|
 |---------|------|
-|Blade Power with no drag| 2.492 [MW]|
-|Blade Power with drag| 2.392 [MW]|
-|Blade Power with drag and tip losses |2.121 [MW]|
+|Blade Power with no drag| 2.492|
+|Blade Power with drag| 2.392 |
+|Blade Power with drag and tip losses |2.121|
