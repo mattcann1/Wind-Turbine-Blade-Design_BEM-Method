@@ -11,6 +11,7 @@ The overall blade shape was determined from the optimal values of chord and angl
 
 The power distribution that the blade produces is shown below.
 ![](Figures/Power_blade.png)
+
 The part of the blade that produces the most power without tip losses is the tip of the blade. The last half of the blade contributes 80% of the overall power captured. 
 
 ![](Figures/Power_comp.png)
